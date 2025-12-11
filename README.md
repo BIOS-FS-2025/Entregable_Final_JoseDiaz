@@ -80,9 +80,13 @@ Y para el frontend:
  
 VITE_API_URL: Para conectarse a la API 
 
-
 Autoría ✒️:
 Jose Diaz - Proyecto Final BIOS
 
 Licencia 📄:
 Proyecto meramente con fines académicos.
+
+Links 🖇️:
+Youtube https://youtu.be/86Fsu5TpacQ
+Vercel https://final-front-cyh2wkajn-jose-diazs-projects-f86206bb.vercel.app
+Render https://final-back-dn8m.onrender.com
